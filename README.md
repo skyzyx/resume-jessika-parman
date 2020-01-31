@@ -88,194 +88,82 @@ shows appreciation with dinners, events, gifts
 ### [Thermo Tech Coatings](http://www.thermotechcoatings.com) — Monroe, WA
 #### Office Manager (November 2018–January 2019)
 
-Short description of the role:
+My job was to keep the office organized and running for a husband & wife who had purchased the business and were brand-new to this industry.
 
-* Achievement #1
+* Was (metaphorically) thrown into a burning building. Managed both the office as well as the production floor. Managed 15 employees, some of whom only spoke spanish. Listened and learned about the needs of the floor workers. Worked with powder companies to become knowledgable enough in the products to be able to train. Scheduled training seminars to perform demos and teach techniques.
 
-thrown into burning building
-managed 15 employees
-no experience in industry
-hire4d for management + production floor
-some employees only spoke spanish
+* There was a fire shortly after I started which shut down production. Coordinated the ordering, delivery, and pickup of replacement parts; followed-up with the fire department to schedule inspections to ensure we were up-to-code, had appropriate safety equipment, etc. Production fell behind and the owners were unavailable, I took the initiative to step-in and ensure work got done, assigned tasks, performed quality control and training on-the-fly. Met deadlines in a "powder keg" environment, and was able to handle the stress of the production floor.
 
-production fell behind; management wasn't around; stepped in to ensure shit got done; assigning tasks; checking quality of parts
-QC; successfuloly meeting deadlines in a powder keg environmentl; could handle the stress of the production floor
-inventory management; no inv in 10 years
-worked with powder co companies to become knowledgable/can train; demos; techniques, seminars
+* Owner was performing door-to-door sales and avoiding the CRM. Took over responsibilities for customer callbacks, qualifying customers and pre-sales leads. Managed the in-house ordering system, the order forms/processes, invoicing, and account reconciliation. Inventory was performed for the first time in 10 years.
 
-wanted to be better and more efficient; what employees needed; inv management; QC; 
-huge fire; shut down production
-coordinate parts/delv/pickup ofg parts; faulty wiring/old building; worked with fire dept to schedule and up to code, safety equipment; building codes
-
-accounting reconciliation
-in-house ordering system; order form/process;
-owner doing door to door sales; crm;
-took over from owner: cust callbacks, calling potential custoemrs, pre-sales leads, invoicing
-
-* Learnings from the role
-
-without proper management, biz will not succeed
-employees look up to people in charge; they know whats going on; honest conversations is happy/trusting employees
+* Learned that without capable management, the business will not succeed. Employees look up to the people in charge. They know what's going on. Honest conversations with the team and operating with transparency and without ego is key to happy/trusting teams.
 
 ### [Synthetic Turf Northwest](https://www.syntheticturfnorthwest.com) — Monroe, WA
 #### Office Manager (February 2017–November 2018)
 
-Short description of the role:
+Made a name for myself by being a utility player that was able to fill all roles (e.g., office, warehouse, vendor management, event coordination). Was also the owner's personal assistant.
 
-* Achievement #1
+* Worked with the owner to adopt the [Lean] methodology (including [Kanban]) to eliminate waste and increase organization and efficiency. Adapted my approach to inventory management to align with _Lean_ principles. Performed the intitial inventory of all items, and designed a process to keep track of where inventory was used. Optimized the re-order workflow to ensure that we never ran out of materials unexpectedly. With a second rented warehouse, there was more inventory and management that was required across multiple locations. Negotiated with vendors for better pricing.
 
-* Achievement #2
+* Worked with logistics companies to ensure on-time deliveries for all work materials; incoming inventory management; quality control to ensure customer satisfaction; nearly all materials were project-specific. Worked to ensure that we always had the correct materials on-hand for the installation jobs, and that we had as little money as possible tied-up in unsellable inventory. Posted ads on Facebook and Craiglist for any scrap materials left over from installations. Was responsible for operating the turf cutter so that we could cut-to-spec.
 
-* Achievement #3
+* Improved sales with vendor events. Performed cost analysis, booth design and supplies, and scheduling the team and equipment to operate the booth. Events cost an average of $2,500-5,000, ran for 3-5 days, 8-12 hours per day, with 1-2 people operaring the booth; out of 50 leads, roughly 10-15 were qualified leads that converted into sales. Each job was a minimum of $5,000, and the owner wanted to make back a minimum of 2.5× his event investment. For each sale, I would up-sell additional products and services.
 
-made a name by bneing able to fill all roles (office, warehouse, vendor management, event coord); utility player
-upsails of products services
-CRM implemnebntation; had full understand of how biz worked; sales funnel; aligned with owner's viz with tangability; online leads; filter hot/cold leads, consultations
-improved sales with vendor events; cost analysis; booth design and supplies; scheduling team and equipment; avg 2500-5k for event; 3-5d, 8-12h, 1-2ppl; 2.5x+, min $5k/job. 50 leads; 10-15 converted into sales (qualified leads)
-double-sold scraps; fb & craigslist; inventory
-implemented kanban and lean systems; inventory items, keep track, design process; (5g of paint; when low, reorder; how long to receive; vendor price, negotiating)
-kanban office management, better physical workflow, feng shui; accountability
-rented warehouse; more inventory; management across locations; logistics co's to ensure on-time deliveries; QC; incoming inv management; proj-spec materials; turf cutter to spec; customer need v want; 
+* Completed a full CRM implementation. This required a full understanding for how the business worked. Managed the sales funnel from the website, and engaged with customers to qualify the leads. Aligned with owner's vision for a tangible solution with online leads, filter of hot/cold leads, and setting-up consultation appointments.
 
-* Learnings from the role
+* Customer "touchpoints" refer to every single point where a customer interacts with your company/brand. By focusing on those touchpoints, and making each of those distinct experiences positive ones for the customer, it makes a huge difference in the quality of customer relationships and the trust they have in you. Example touchpoints are: When we're responding over email/Twitter/Facebook, greeting them when we meet them, answering their questions, in the time it takes to follow-up, in how we support them on the long-tail of the sales cycle, etc.
 
-kanban doesnt work if there's no accountability/reinforcement
-*saw* how good customer relations/touchpoints; can be enjoyable
-learned to better comm with coworkers; developing trust; same team with common goal; resilient to shit; talk about it and work through it
-team morale is important; team outings; came back refreshed
-learned importance of a good workflow; knowing what you're good/bad at; self-reflection
-goals and reviews; checked in; 360 reviews
-intervierwing, desperation, hired sonu, bad in retrospect
+* Experienced and participated in "360-degree" performance reviews. These included a self-review, a review of your manager, and a review of your peers. Others would do the same, ensuring that the review feedback was well-rounded and multi-directional. Everybody has areas where they can improve, and this was a great way to learn about growth opportunities in a company that encouraged growth.
+
+* Learned that Kanban doesn't work if there's no accountability/reinforcement; learned the importance of a good workflow; learned the value of self-reflection and understanding your personal strengths/weaknesses; learned that team morale is critical (e.g., team outings); learned the value of earning the trust of your peers (e.g., we all rise and fall together).
+
+* Learned about the recruiting, interviewing, hiring, and training processes. Learned as much about making the right decisions as about avoiding the wrong decisions. Made some mistakes in retrospect, but learned from them so that the next time would be more effective.
 
 ### [A Better Handyman](https://www.abetterhandyman.org) — Mountlake Terrace, WA
 #### Office Manager (December 2016–February 2017)
 
-Short description of the role:
+My job was to keep the office organized and running for a husband & wife-managed business.
 
-* Achievement #1
+* Discovered an interest in inventory management; started the process of organizing the inventory on-hand; developed processes for not running out of stock, and keeping track of inventory as it was pulled.
 
-did not murder anyone
-goal was to find a different job
-would have removed the religion aspect from the workplace
-husband + wife shit show
-wanted inventory management: love the organization aspect; ocd looking at the system; like to not run out
-nobody wants to do it or knows where to start
-what happens when you need to pull that inventory
-
-* Learnings from the role
-
-flagrant religion can alienate people
-avoid husband wife shitshow
-learned that company was a disaster
-    ellen was trting to run multiuple biz from a single business; handyman (commercial) + cleaning (residential)
-    custromer asked for product; looked for cheaper product; charged at same price
-    cdonstantly trying to take shortcuts;
-    no customer service skills; flustered at cust issues; meek personality; not confident
-    avoided crm; timeclock; unskilled installation team; nepotism
-    jumping ship from last job; desperation
-
+* The owners had an approach to running their business that was incompatible with my personal ethics. Chose to leave after a few months to explore other opportunities.
 
 ### [Contract Furnishings Mart](http://www.cfmfloors.com/north-seattle-flooring-store) — Seattle, WA
-#### Office Manager (November 2016–December 2016)
+#### Office and Warehouse Manager (November 2016–December 2016)
 
-Short description of the role:
+I had just moved to the state, and was looking for a job to supplement my income while my fledgling business was still new and unstable. Coming from a warehouse background, I natually gravitated to a team like CFM.
 
-* Learnings from the role
+* The store was brand-new and I helped with the store's opening: I designed and set up the warehouse layout and organization; handled all of the loading and unloading of new product from the trucks; started learning the CRM tooling.
 
-just moved to area; came from warehouse, so gravitated to CFM
-long commute; didn't honor verbal commitments
-helped open the store, put warehouse togehter; loading and unloading; started learning CRM
-get everything in writing; interview
+* Even though the job didn't work out as well as I'd hoped for, there were some important lessons I learned from this experience: I wasn't prepared for the hour-long commute at 6am into Seattle; learned the importance of getting all verbal agreements in writing; learned the importance of honoring your verbal commitments.
 
 ### Blazing Gypsy Boutique — Online
 #### Owner, Direct Sales (July 2016–January 2019)
 
-Short description of the role:
+Opened an online retail clothing store for the first time. Even though the business ended up being a failure, I was able to gain insight and experience as a result that is difficult to learn in other contexts.
 
-* Achievement #1
+* Vetted and brought-on vendors; vetted and tested products before selling them; learned the value of building trust with customer relationships; learned how to run a small business end-to-end; learned how to separate personal finances from business funds.
 
-* Achievement #2
+* Explored a variety of approaches to marketing and social media presence via trial and error; managed multiple social media channels with automation; kept customers engaged via email marketing, trade show and vendor events, and Facebook Live video streaming.
 
-* Achievement #3
+* Learned about the cyclical nature of online sales; adapted inventory control to keep the right amount of the right products on-hand, and reduced the off-season products to free-up cash to reinvest; adapted to identifying product 2–3 seasons ahead; over a long enough timeline, was able to see trends about what sells best during different parts of the year. Learned how to analyze sales numbers to understand costs, revenue, and profits.
 
-opened a business for the first time on my own
-vendor selection
-gotta know when to quit; don;'t give up no matter what
-hard being a biz owner
-time management; priorities; family
-don't employ your friends
-how to build a retail website
-customer management
-inventory control
-know vendors, customer wants, test products before selling them, building trust
-have the right amount on-hand for the right season; must be 2-3 seasons ahead; can see trends over time about what sells best
-learned how to analyze sales numbers to understand costs, revenue, and profits
-online marketing, learning the ropes, trial and error, syncing all social media accounts, keeping customers engaged via email, FBL, events
-learned how to separate personal from business funds and accounts and banking and recordkeeping
+* Learned humility by discovering several approaches that don't work; learned how to manage and prioritize time while balancing the needs of the business, family, and myself; learned not to employ your friends; persevered when the work got hard and managed to build a business with decent revenue for its size; at the same time, understanding the  sales projections helped me understand when it became the right time to close shop. (You need to know when to quit so that you can shift your efforts to something more effective.)
 
-* Learnings from the role
-
-when tyou have a prod youre passiobate about, its easy and fun to sell
-meeting new people, learning new things
-gained many persinal and professional contqactss/connections
-opened doors to modeling and fitness
+* When you have a product you're passionate about, it's easy and fun to sell; I learned a lot from the many new people I met as a result; gained many personal and professional contacts/connections; the business opened doors to modeling and fitness opportunities.
 
 ### [Floor Connection](http://floorconnection.com) — Arroyo Grande, CA
 #### Office Manager (June 2015–July 2016)
 
-Short description of the role:
-
-* Achievement #1
-
-* Achievement #2
-
-* Learnings from the role
+Currently rewriting. Description TBD.
 
 #### Project Manager (December 2014-June 2015)
 
-Short description of the role:
-
-* Achievement #1
-
-* Achievement #2
-
-* Learnings from the role
+Currently rewriting. Description TBD.
 
 #### Warehouse Manager (April 2014–December 2014)
 
-Short description of the role:
-
-* Achievement #1
-
-* Achievement #2
-
-* Learnings from the role
-
-### Takken's Shoes
-#### Sales Associate (February 2014)
-
-SLO
-
-### Roxanne's Birkenstocks
-#### Sales Associate (March 2013)
-
-Fresno, SLO
-
-### Heald College
-#### Student (April 2010–September 2012)
-
-Was a criminal justice student. Had some odd jobs.
-
-### Beach Babies Consignment Store
-#### Partner and Co-Owner (2009–April 2010)
-
-Short description of the role:
-
-* Achievement #1
-
-* Achievement #2
-
-* Learnings from the role
+Currently rewriting. Description TBD.
 
 ### Truncated
 
