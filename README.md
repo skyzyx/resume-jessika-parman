@@ -7,7 +7,7 @@ jessika@jessikaparman.com \
 
 ## Summary
 
-**Jessika Parman** is an experienced office and warehouse manager with a focus on improving workflow efficiency. Having learned the ropes of office management in high school while working in her mother's store after classes, Jessika understands what it takes to _think like an owner_ as opposed to simply _being an employee_.
+**Jessika Parman** is an experienced office and warehouse manager with a focus on improving workflow efficiency. Having learned the ropes of office management in high school while working in her mother's store after classes, Jessika understands what it takes to _think like an owner_.
 
 Jessika understands how modern technology can streamline the efficiency of the workplace. She implicitly understands the pitfalls of “[We've always done it this way][always-done]” and has a sixth sense about how to streamline operations. Jessika understands that the best way to move things forward is to first listen and understand how things work before suggesting solutions which may not fit. But by letting computers do what computers are good at, we can free up the staff to focus on what _humans_ are good at.
 
@@ -29,95 +29,60 @@ While my experience and personal interests are broad, the following list is focu
 
 * **Warehouse:** Receiving and validating inventory, scheduling workers and resources for customer jobs, loading trucks for customer jobs, certified for forklift training and safety.
 
+<div class="page-break"></div>
+
 ## Work Experience & Notable Projects
 
 ### [Bark King Blower Truck Service](https://barkking.com) — Woodinville, WA
 #### Office Manager (January 2019—Present)
 
-Short description of the role:
+* Improved the the interview process to have fewer false-positives. Adopted revisions to the employee manual, insurance manuals, and training guides. Collaborated with H.R. company to ensure legal compliance. Invested in ensuring employees were engaged, happy, and productive. Wanted to implemented safety meetings, checked equipment, and ensure proper outfitting for the job (e.g., raingear, high-visibility vests).
 
-* intervierwing 
+* Saved money through price comparisons, and negotiating with vendors over prices.
 
-* training, , employee manuals, insurance manual, 
+* There was active resistance to digital solutions. While many of these are still unimplemented, I proposed meaningful improvements to our productivity by:
 
-* worked with HR company to ensure compliance
+  * Moving the job schedules into a shared, digital calendar that was reviewable by everyone.
 
-* streamlining - writing orders by hand on paper, computer-based entry (gdocs/excel/ordering program). CRM.
+  * Moving documents and spreadsheets into a modern office-document solution like Google Docs or Microsoft Office 365.
 
-coordinating while working remotely
-return calls
-follow-through on meetings
-reviews
-getting orders
-scheduling
-quotes/estimates
+  * Speed up the ability to pay by migrating from paper invoices being snail-mailed to customers, over to web-based invoicing.
 
-complain about plate full; had questions, take away task
-delegated, training, given opportuinioty to try; checked in more often
-no reviews; 360 or otherwise
+  * Adopting a CRM would have made it easier to divide the work and respond to customer requests in a more timely manner.
 
-implemented safety meetings/checks.
-check equipment; outfitted for the job; raingear; high viz vests
-make sure that employees were engaged and happy/productive
-"health" check of the team
+  * Migrating from hand-written orders to computer-based entry.
 
-saved co money by price comparing
-negotiating with vendors over price
-marketing differently; did not follow through; websites
-    ensured that online presence is more profrswsional and well-known
-    presence at trade shows
-    email marketing, coupons
+* Wanted to explore having a professional-grade online presence, presence at trade shows, email marketing, coupons.
 
-snail mailed invoices
+* Wanted to receive training for the office tasks that the owner "owned". Wanted to increase the cross-training, and follow the [Kanban] style of working together against a shared queue of tasks.
 
-12 paper calendars, hand-wrote and erased scheduling
-calendars, had to go to a completely different room upstairs
-
-* Learnings from the role
-
-Learned how not to run a business
-Learned how nbot to manage other people
-Communication with employees is vital to smooth operations
-Communication with customers/touchpoints
-Pissed off customers; lack comm; timeliness; lost business; delegation
-Developing trust among your team
-Delegating/partnership/up/down
-has ability to be better, but small mind/ego/micromanagement prevents success
-shows appreciation with dinners, events, gifts
+* Transparent communication with employees is vital to smooth operations; paying attention to customer touchpoints; poor customer communication and a lack of timeliness leads to lost business and customer distrust; better delegation can make the office more efficient; learned that an inability to adapt, thinking small, having a big ego, and micromanagement will actively prevent the success of your business.
 
 ### [Thermo Tech Coatings](http://www.thermotechcoatings.com) — Monroe, WA
 #### Office Manager (November 2018–January 2019)
 
-My job was to keep the office organized and running for a husband & wife who had purchased the business and were brand-new to this industry.
+* Managed the office + production floor + 15 employees. Worked with powder vendors to become knowledgable enough to train. Scheduled training seminars to perform demos and teach techniques.
 
-* Was (metaphorically) thrown into a burning building. Managed both the office as well as the production floor. Managed 15 employees, some of whom only spoke spanish. Listened and learned about the needs of the floor workers. Worked with powder companies to become knowledgable enough in the products to be able to train. Scheduled training seminars to perform demos and teach techniques.
+* After a fire, scheduled fire department inspections to ensure we were up-to-code and had appropriate safety equipment. Took the initiative to step-in and address production issues, assigned tasks, performed quality control and training on-the-fly. Met deadlines in a "powder keg" environment and was able to handle the stress of the production floor.
 
-* There was a fire shortly after I started which shut down production. Coordinated the ordering, delivery, and pickup of replacement parts; followed-up with the fire department to schedule inspections to ensure we were up-to-code, had appropriate safety equipment, etc. Production fell behind and the owners were unavailable, I took the initiative to step-in and ensure work got done, assigned tasks, performed quality control and training on-the-fly. Met deadlines in a "powder keg" environment, and was able to handle the stress of the production floor.
+* Took over responsibilities for customer callbacks, qualifying customers and pre-sales leads. Managed the in-house ordering system, the order forms/processes, invoicing, and account reconciliation.
 
-* Owner was performing door-to-door sales and avoiding the CRM. Took over responsibilities for customer callbacks, qualifying customers and pre-sales leads. Managed the in-house ordering system, the order forms/processes, invoicing, and account reconciliation. Inventory was performed for the first time in 10 years.
-
-* Learned that without capable management, the business will not succeed. Employees look up to the people in charge. They know what's going on. Honest conversations with the team and operating with transparency and without ego is key to happy/trusting teams.
+* Employees look up to the people in charge. Operating with transparency and without ego is key to happy/trusting teams.
 
 ### [Synthetic Turf Northwest](https://www.syntheticturfnorthwest.com) — Monroe, WA
 #### Office Manager (February 2017–November 2018)
 
-Made a name for myself by being a utility player that was able to fill all roles (e.g., office, warehouse, vendor management, event coordination). Was also the owner's personal assistant.
+* Adopted the [Lean] methodology (including [Kanban]) to eliminate waste and increase organization and efficiency. Performed the intitial inventory of all items and designed a process to keep track of where inventory was used. Optimized the re-order workflow. Inventory management was required across multiple locations. Negotiated with vendors for better pricing.
 
-* Worked with the owner to adopt the [Lean] methodology (including [Kanban]) to eliminate waste and increase organization and efficiency. Adapted my approach to inventory management to align with _Lean_ principles. Performed the intitial inventory of all items, and designed a process to keep track of where inventory was used. Optimized the re-order workflow to ensure that we never ran out of materials unexpectedly. With a second rented warehouse, there was more inventory and management that was required across multiple locations. Negotiated with vendors for better pricing.
+* Worked with logistics companies to ensure on-time deliveries; performed quality control to ensure customer satisfaction; materials were project-specific. Ensured that we always had the correct materials on-hand for jobs, and avoided tying-up unsellable inventory. Sold leftover scrap materials online. Operated the turf cutter so that we could cut-to-spec.
 
-* Worked with logistics companies to ensure on-time deliveries for all work materials; incoming inventory management; quality control to ensure customer satisfaction; nearly all materials were project-specific. Worked to ensure that we always had the correct materials on-hand for the installation jobs, and that we had as little money as possible tied-up in unsellable inventory. Posted ads on Facebook and Craiglist for any scrap materials left over from installations. Was responsible for operating the turf cutter so that we could cut-to-spec.
+* Vendor events: Performed cost analysis, booth design and supplies, and scheduling the booth team/equipment. A $2,500-5,000 event generated 50 leads (avg). Roughly 10-15 were qualified leads that converted into sales ($5,000 minumum). Up-sold additional products and services.
 
-* Improved sales with vendor events. Performed cost analysis, booth design and supplies, and scheduling the team and equipment to operate the booth. Events cost an average of $2,500-5,000, ran for 3-5 days, 8-12 hours per day, with 1-2 people operaring the booth; out of 50 leads, roughly 10-15 were qualified leads that converted into sales. Each job was a minimum of $5,000, and the owner wanted to make back a minimum of 2.5× his event investment. For each sale, I would up-sell additional products and services.
+* Completed a full CRM implementation. Managed the sales funnel from the website, and engaged with customers to qualify the leads. Aligned with owner's vision for online leads, filter of hot/cold leads, and setting-up consultation appointments.
 
-* Completed a full CRM implementation. This required a full understanding for how the business worked. Managed the sales funnel from the website, and engaged with customers to qualify the leads. Aligned with owner's vision for a tangible solution with online leads, filter of hot/cold leads, and setting-up consultation appointments.
-
-* Customer "touchpoints" refer to every single point where a customer interacts with your company/brand. By focusing on those touchpoints, and making each of those distinct experiences positive ones for the customer, it makes a huge difference in the quality of customer relationships and the trust they have in you. Example touchpoints are: When we're responding over email/Twitter/Facebook, greeting them when we meet them, answering their questions, in the time it takes to follow-up, in how we support them on the long-tail of the sales cycle, etc.
-
-* Experienced and participated in "360-degree" performance reviews. These included a self-review, a review of your manager, and a review of your peers. Others would do the same, ensuring that the review feedback was well-rounded and multi-directional. Everybody has areas where they can improve, and this was a great way to learn about growth opportunities in a company that encouraged growth.
+* Participated in "360-degree" performance reviews (self-review, reviewed manager, reviewed peers). Review feedback was well-rounded and multi-directional.
 
 * Learned that Kanban doesn't work if there's no accountability/reinforcement; learned the importance of a good workflow; learned the value of self-reflection and understanding your personal strengths/weaknesses; learned that team morale is critical (e.g., team outings); learned the value of earning the trust of your peers (e.g., we all rise and fall together).
-
-* Learned about the recruiting, interviewing, hiring, and training processes. Learned as much about making the right decisions as about avoiding the wrong decisions. Made some mistakes in retrospect, but learned from them so that the next time would be more effective.
 
 ### [A Better Handyman](https://www.abetterhandyman.org) — Mountlake Terrace, WA
 #### Office Manager (December 2016–February 2017)
@@ -127,6 +92,8 @@ My job was to keep the office organized and running for a husband & wife-managed
 * Discovered an interest in inventory management; started the process of organizing the inventory on-hand; developed processes for not running out of stock, and keeping track of inventory as it was pulled.
 
 * The owners had an approach to running their business that was incompatible with my personal ethics. Chose to leave after a few months to explore other opportunities.
+
+<div class="page-break"></div>
 
 ### [Contract Furnishings Mart](http://www.cfmfloors.com/north-seattle-flooring-store) — Seattle, WA
 #### Office and Warehouse Manager (November 2016–December 2016)
@@ -151,6 +118,8 @@ Opened an online retail clothing store for the first time. Even though the busin
 * Learned humility by discovering several approaches that don't work; learned how to manage and prioritize time while balancing the needs of the business, family, and myself; learned not to employ your friends; persevered when the work got hard and managed to build a business with decent revenue for its size; at the same time, understanding the  sales projections helped me understand when it became the right time to close shop. (You need to know when to quit so that you can shift your efforts to something more effective.)
 
 * When you have a product you're passionate about, it's easy and fun to sell; I learned a lot from the many new people I met as a result; gained many personal and professional contacts/connections; the business opened doors to modeling and fitness opportunities.
+
+<div class="page-break"></div>
 
 ### [Floor Connection](http://floorconnection.com) — Arroyo Grande, CA
 #### Office Manager (June 2015–July 2016)
