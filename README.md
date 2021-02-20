@@ -130,7 +130,7 @@ Currently rewriting. Description TBD.
 
 Currently rewriting. Description TBD.
 
-#### Warehouse Manager (April 2014–December 2014)
+#### Warehouse Manager (October 2014–December 2014)
 
 Currently rewriting. Description TBD.
 
