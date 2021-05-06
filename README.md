@@ -79,7 +79,7 @@ While Jessika’s experience and personal interests are broad, the following lis
 
 * Worked with logistics companies to ensure on-time deliveries; performed quality control to ensure customer satisfaction; materials were project-specific. Ensured that the team always had the correct materials on-hand for jobs, and avoided tying-up unsellable inventory. Sold leftover scrap materials online. Operated the turf cutter so that the team could cut-to-spec.
 
-* Vendor events: Performed cost analysis, booth design and supplies, and scheduling the booth team/equipment. A $2,500-5,000 event generated 50 leads (avg). Roughly 20 were qualified leads @ $5,000+ per job. Up-sold additional products and services.
+* Vendor events: Performed cost analysis, booth design and supplies, and scheduling the booth team/equipment. A $2,500-5,000 event generated 50 leads (avg). Roughly 20 were qualified leads @ $5,000+ per job (= $100,000 at the low end). Up-sold additional products and services.
 
 * Completed a full CRM implementation. Managed the sales funnel from the website, and engaged with customers to qualify the leads. Aligned with owner's vision for online leads, filter of hot/cold leads, and setting-up consultation appointments.
 
