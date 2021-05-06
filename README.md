@@ -15,7 +15,7 @@ With experience being forklift-certified, to understanding customer relationship
 
 ## Skills and Software
 
-While my experience and personal interests are broad, the following list is focused more on my interest in office management and automation, and warehouse management roles. I would be happy to share additional experience for other areas upon request.
+While Jessika’s experience and personal interests are broad, the following list is focused more on her interest in office management, automation, and warehouse management roles. She would be happy to share additional experience for other areas upon request.
 
 * **Efficiency Methodologies:** [Kanban], [Lean]
 
@@ -34,19 +34,20 @@ While my experience and personal interests are broad, the following list is focu
 ## Work Experience & Notable Projects
 
 ### [Bark King Blower Truck Service](https://barkking.com) — Woodinville, WA
+
 #### Office Manager (January 2019—Present)
 
-* Improved the the interview process to have fewer false-positives. Adopted revisions to the employee manual, insurance manuals, and training guides. Collaborated with H.R. company to ensure legal compliance. Invested in ensuring employees were engaged, happy, and productive. Wanted to implemented safety meetings, checked equipment, and ensure proper outfitting for the job (e.g., raingear, high-visibility vests).
+* Improved the interview process to have fewer false-positives. Adopted revisions to the employee manual, insurance manuals, and training guides. Collaborated with the HR company to ensure legal compliance. Invested in ensuring employees were engaged, happy, and productive. Wanted to implement safety meetings, checked equipment, and ensure proper outfitting for the job (e.g., raingear, high-visibility vests).
 
-* Saved money through price comparisons, and negotiating with vendors over prices.
+* Saved money through price comparisons and negotiating with vendors over prices.
 
-* There was active resistance to digital solutions. While many of these are still unimplemented, I proposed meaningful improvements to our productivity by:
+* There was active resistance to digital solutions. While many of these were unimplemented, she proposed meaningful improvements to productivity by:
 
   * Moving the job schedules into a shared, digital calendar that was reviewable by everyone.
 
   * Moving documents and spreadsheets into a modern office-document solution like Google Docs or Microsoft Office 365.
 
-  * Speed up the ability to pay by migrating from paper invoices being snail-mailed to customers, over to web-based invoicing.
+  * Speeding up the ability to pay by migrating from paper invoices being snail-mailed to customers, over to web-based invoicing.
 
   * Adopting a CRM would have made it easier to divide the work and respond to customer requests in a more timely manner.
 
@@ -59,69 +60,75 @@ While my experience and personal interests are broad, the following list is focu
 * Transparent communication with employees is vital to smooth operations; paying attention to customer touchpoints; poor customer communication and a lack of timeliness leads to lost business and customer distrust; better delegation can make the office more efficient; learned that an inability to adapt, thinking small, having a big ego, and micromanagement will actively prevent the success of your business.
 
 ### [Thermo Tech Coatings](http://www.thermotechcoatings.com) — Monroe, WA
+
 #### Office Manager (November 2018–January 2019)
 
 * Managed the office + production floor + 15 employees. Worked with powder vendors to become knowledgable enough to train. Scheduled training seminars to perform demos and teach techniques.
 
-* After a fire, scheduled fire department inspections to ensure we were up-to-code and had appropriate safety equipment. Took the initiative to step-in and address production issues, assigned tasks, performed quality control and training on-the-fly. Met deadlines in a "powder keg" environment and was able to handle the stress of the production floor.
+* After a warehouse fire, scheduled fire department inspections to ensure we were up-to-code and had appropriate safety equipment. Took the initiative to address production issues, assigned tasks, performed quality control and training on-the-fly. Met deadlines in a "powder keg" environment and was able to handle the stress of the production floor.
 
 * Took over responsibilities for customer callbacks, qualifying customers and pre-sales leads. Managed the in-house ordering system, the order forms/processes, invoicing, and account reconciliation.
 
 * Employees look up to the people in charge. Operating with transparency and without ego is key to happy/trusting teams.
 
 ### [Synthetic Turf Northwest](https://www.syntheticturfnorthwest.com) — Monroe, WA
+
 #### Office Manager (February 2017–November 2018)
 
 * Adopted the [Lean] methodology (including [Kanban]) to eliminate waste and increase organization and efficiency. Performed the intitial inventory of all items and designed a process to keep track of where inventory was used. Optimized the re-order workflow. Inventory management was required across multiple locations. Negotiated with vendors for better pricing.
 
-* Worked with logistics companies to ensure on-time deliveries; performed quality control to ensure customer satisfaction; materials were project-specific. Ensured that we always had the correct materials on-hand for jobs, and avoided tying-up unsellable inventory. Sold leftover scrap materials online. Operated the turf cutter so that we could cut-to-spec.
+* Worked with logistics companies to ensure on-time deliveries; performed quality control to ensure customer satisfaction; materials were project-specific. Ensured that the team always had the correct materials on-hand for jobs, and avoided tying-up unsellable inventory. Sold leftover scrap materials online. Operated the turf cutter so that the team could cut-to-spec.
 
 * Vendor events: Performed cost analysis, booth design and supplies, and scheduling the booth team/equipment. A $2,500-5,000 event generated 50 leads (avg). Roughly 10-15 were qualified leads that converted into sales ($5,000 minumum). Up-sold additional products and services.
 
 * Completed a full CRM implementation. Managed the sales funnel from the website, and engaged with customers to qualify the leads. Aligned with owner's vision for online leads, filter of hot/cold leads, and setting-up consultation appointments.
 
-* Participated in "360-degree" performance reviews (self-review, reviewed manager, reviewed peers). Review feedback was well-rounded and multi-directional.
+* Participated in "360-degree" performance reviews (self-review, manager review, peer review). Review feedback was well-rounded and multi-directional.
 
 * Learned that Kanban doesn't work if there's no accountability/reinforcement; learned the importance of a good workflow; learned the value of self-reflection and understanding your personal strengths/weaknesses; learned that team morale is critical (e.g., team outings); learned the value of earning the trust of your peers (e.g., we all rise and fall together).
 
 ### [A Better Handyman](https://www.abetterhandyman.org) — Mountlake Terrace, WA
+
 #### Office Manager (December 2016–February 2017)
 
-My job was to keep the office organized and running for a husband & wife-managed business.
+Jessika’s job was to keep the office organized and running for a husband & wife-managed business.
 
 * Discovered an interest in inventory management; started the process of organizing the inventory on-hand; developed processes for not running out of stock, and keeping track of inventory as it was pulled.
 
-* The owners had an approach to running their business that was incompatible with my personal ethics. Chose to leave after a few months to explore other opportunities.
+* The owners had an approach to running their business that was incompatible with Jessika’s personal ethics. She chose to leave after a few months to explore other opportunities.
 
 <div class="page-break"></div>
 
 ### [Contract Furnishings Mart](http://www.cfmfloors.com/north-seattle-flooring-store) — Seattle, WA
+
 #### Office and Warehouse Manager (November 2016–December 2016)
 
-I had just moved to the state, and was looking for a job to supplement my income while my fledgling business was still new and unstable. Coming from a warehouse background, I natually gravitated to a team like CFM.
+Jessika had just moved to the state, and was looking for a job to supplement her income while her fledgling business was still new and unstable. Coming from a warehouse background, she natually gravitated to a team like CFM.
 
-* The store was brand-new and I helped with the store's opening: I designed and set up the warehouse layout and organization; handled all of the loading and unloading of new product from the trucks; started learning the CRM tooling.
+* The store was brand-new and she helped with the store's opening: she designed and set up the warehouse layout and organization; handled all of the loading and unloading of new product from the trucks; started learning the CRM tooling.
 
-* Even though the job didn't work out as well as I'd hoped for, there were some important lessons I learned from this experience: I wasn't prepared for the hour-long commute at 6am into Seattle; learned the importance of getting all verbal agreements in writing; learned the importance of honoring your verbal commitments.
+* Even though the job didn't work out as well as she'd hoped for, there were some important lessons learned from this experience: she wasn't prepared for the hour-long commute at 6am; she learned the importance of getting all verbal agreements in writing; she learned the importance of honoring your verbal commitments.
 
 ### Blazing Gypsy Boutique — Online
+
 #### Owner, Direct Sales (July 2016–January 2019)
 
-Opened an online retail clothing store for the first time. Even though the business ended up being a failure, I was able to gain insight and experience as a result that is difficult to learn in other contexts.
+Jessika opened an online retail clothing store for the first time. Even though the business ultimately failed, she was able to gain insight and experience as a result that is difficult to learn in other contexts.
 
 * Vetted and brought-on vendors; vetted and tested products before selling them; learned the value of building trust with customer relationships; learned how to run a small business end-to-end; learned how to separate personal finances from business funds.
 
-* Explored a variety of approaches to marketing and social media presence via trial and error; managed multiple social media channels with automation; kept customers engaged via email marketing, trade show and vendor events, and Facebook Live video streaming.
+* Explored a variety of approaches to marketing and social media presence via trial and error; managed multiple social media channels with automation; kept customers engaged via email marketing, trade show and vendor events, and _Facebook Live_ video streaming.
 
-* Learned about the cyclical nature of online sales; adapted inventory control to keep the right amount of the right products on-hand, and reduced the off-season products to free-up cash to reinvest; adapted to identifying product 2–3 seasons ahead; over a long enough timeline, was able to see trends about what sells best during different parts of the year. Learned how to analyze sales numbers to understand costs, revenue, and profits.
+* Learned about the cyclical nature of online sales; adapted inventory control to keep the right amount of the right products on-hand; reduced the off-season products to free-up cash to reinvest; adapted to identifying product 2–3 seasons ahead; over a long enough timeline, was able to see trends about what sells best during different parts of the year. Learned how to analyze sales numbers to understand costs, revenue, and profits.
 
-* Learned humility by discovering several approaches that don't work; learned how to manage and prioritize time while balancing the needs of the business, family, and myself; learned not to employ your friends; persevered when the work got hard and managed to build a business with decent revenue for its size; at the same time, understanding the  sales projections helped me understand when it became the right time to close shop. (You need to know when to quit so that you can shift your efforts to something more effective.)
+* Learned humility by discovering several approaches that didn't work; learned how to manage and prioritize time while balancing the needs of the business, family, and herself; learned not to employ your friends; persevered when the work got hard and managed to build a business with decent revenue for its size; at the same time, understanding the sales projections helped her understand when it became the right time to close shop. (You need to know when to quit so that you can shift your efforts to something more effective.)
 
-* When you have a product you're passionate about, it's easy and fun to sell; I learned a lot from the many new people I met as a result; gained many personal and professional contacts/connections; the business opened doors to modeling and fitness opportunities.
+* When you have a product you're passionate about, it's easy and fun to sell; Jessika learned a lot from the many new people she met as a result; gained many personal and professional contacts/connections; the business opened doors to other opportunities.
 
 <div class="page-break"></div>
 
 ### [Floor Connection](http://floorconnection.com) — Arroyo Grande, CA
+
 #### Office Manager (June 2015–July 2016)
 
 Currently rewriting. Description TBD.
@@ -138,16 +145,12 @@ Currently rewriting. Description TBD.
 
 Earlier experience is available upon request.
 
-## Certifications & Accomplishments 
+## Certifications & Accomplishments
 
 * Student guest speaker for the 2007 [Arroyo Grande High School][aghs] graduation ceremony.
 * Forklift certificatation; both usage and training.
 
-## Education 
-
-### [National Academy of Sports Medicine](https://www.nasm.org) — Online
-
-* Certified Personal Trainer (NASM-CPT) Program, 2019–Present
+## Education
 
 ### [Heald College](https://en.wikipedia.org/wiki/Heald_College) — Fresno, CA
 
