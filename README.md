@@ -1,7 +1,8 @@
 # Jessika Parman
 
 jessika@jessikaparman.com \
-(805) 249-8353
+(805) 249-8353 \
+Evans, CO
 
 **Experienced office and warehouse manager with a focus on improving workflow efficiency by leveraging automation and digital solutions.**
 
@@ -109,15 +110,55 @@ Jessika opened an online retail clothing store for the first time. Even though t
 
 #### Office Manager (June 2015–July 2016)
 
-Currently rewriting. Description TBD.
+Caught up on certified payroll and prevailing wage paperwork for 12 employees. Took class. Requires knowing detailed processes and work codes.
+
+Inventory management. Warehouse manager was a kid. Logistics. Freight carriers. Long trucking logistics. Scheduling material drops; ensure the right material landed at the right time.
+
+Had birds-eye view of all operations; understood all of the moving pieces; was able to step back into previous roles to fill-in when someone was out. Understand what information was important to whom. Staying on top of those details was important and had direct customer impact. (utility player; played all positions)
 
 #### Project Manager (December 2014-June 2015)
 
-Currently rewriting. Description TBD.
+Taught how to read blueprints and how to project manage; budgeting and schedules adn change orders; how to handle old men who don't believe women belong on the job site. Focused on improving communication skills. First project was $5mm.
 
-#### Warehouse Manager (October 2014–December 2014)
+Most interesting MindBody project. 20k sq/ft. advanced project. designs in the carpet. calculated complex requirements and measurements.
 
-Currently rewriting. Description TBD.
+Removal and installation
+
+Multiple high-value projects. Met with other contractors, PMs. Brokered comm across groups.
+
+On-time, on-budget.
+
+Gave confidence to keep going in the construction trade.
+
+#### Warehouse Manager (May 2014–December 2014)
+
+First task was to organize 4 warehouses @ 4,000 sq/ft of flooring materials (carpet, LVT, VCT, carpet tiles, transitions, etc.). Broke down sections of the warehouse. Determined what materials could be sold off.
+
+Loaded-up and unloaded trucks using a forklift with a 12 ft carpet attachment. Received formal forklift training and cert (as a teacher to train).
+
+Loaded own truck; drove to job sites with a 4-door truck with a 12-foot trailer; unloaded and staged all material. Heavy inventory management aspect.
+
+Moisture mitigation; drilling into concrete, set a moisture test, and read results; determine results and send to lab.
+
+Set the precedent for warehouse employees moving forward.
+
+### (College)
+
+Worked service jobs while attending school and working toward a degree.
+
+### California Central Fire Protection — Nipomo, CA
+
+#### Office Assistant (August 2007–August 2009)
+
+Mom and Pop business. Worked out of their garage.
+
+Started learning what certified payroll was. Received training for core office tasks. Learned the basics of scheduling and inventory. Began learning QuickBooks.
+
+How to compose professional emails.
+
+Learned a lot about the products, and piqued an interest in the construction field.
+
+Negotiated a raise from 10 → 16/hr. Negotiated a paycheck when the company was "out of money". Eye-opening about the real world and taught me what I'm OK with and not when working for a company.
 
 ### Truncated
 
