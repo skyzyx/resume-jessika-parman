@@ -87,28 +87,6 @@ While Jessika’s experience and personal interests are broad, the following lis
 
 * Learned that Kanban doesn't work if there's no accountability/reinforcement; learned the importance of a good workflow; learned the value of self-reflection and understanding your personal strengths/weaknesses; learned that team morale is critical (e.g., team outings); learned the value of earning the trust of your peers (e.g., we all rise and fall together).
 
-### [A Better Handyman](https://www.abetterhandyman.org) — Mountlake Terrace, WA
-
-#### Office Manager (December 2016–February 2017)
-
-Jessika’s job was to keep the office organized and running for a husband & wife-managed business.
-
-* Discovered an interest in inventory management; started the process of organizing the inventory on-hand; developed processes for not running out of stock, and keeping track of inventory as it was pulled.
-
-* The owners had an approach to running their business that was incompatible with Jessika’s personal ethics. She chose to leave after a few months to explore other opportunities.
-
-<div class="page-break"></div>
-
-### [Contract Furnishings Mart](http://www.cfmfloors.com/north-seattle-flooring-store) — Seattle, WA
-
-#### Office and Warehouse Manager (November 2016–December 2016)
-
-Jessika had just moved to the state, and was looking for a job to supplement her income while her fledgling business was still new and unstable. Coming from a warehouse background, she natually gravitated to a team like CFM.
-
-* The store was brand-new and she helped with the store's opening: she designed and set up the warehouse layout and organization; handled all of the loading and unloading of new product from the trucks; started learning the CRM tooling.
-
-* Even though the job didn't work out as well as she'd hoped for, there were some important lessons learned from this experience: she wasn't prepared for the hour-long commute at 6am; she learned the importance of getting all verbal agreements in writing; she learned the importance of honoring your verbal commitments.
-
 ### Blazing Gypsy Boutique — Online
 
 #### Owner, Direct Sales (July 2016–January 2019)
