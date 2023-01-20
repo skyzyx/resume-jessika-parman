@@ -34,9 +34,45 @@ While Jessika’s experience and personal interests are broad, the following lis
 
 ## Work Experience & Notable Projects
 
+### [Jessika Parman Designs]() — Online
+
+#### Designer (October 2022–January 2023)
+
+TBD
+
+### [Graff’s Turf](https://graffsturf.com) — Fort Morgan, CO
+
+#### Office Operations and Leadership (March 2022–January 2023)
+
+* One of our goals was to stabilize the core of the business, with a goal to grow from 1 store to 50 stores over the next several years. Most of my work was driven by this premise.
+
+* As a hiring manager, rebooted the interview process with a much higher focus on identifying candidates with greater competency, who _think like an owner_, and have a bias toward taking action. The goal was to develop a high-quality, reliable team who could help elevate us to the next level.
+
+* Began the process of documenting our company processes and procedures for the first time in the company’s 50-year existence. This allowed us to bring more rigor and repeatability to tasks, cross-train the team on how to perform tasks (so that the task was not limited to a single individual with knowledge), and speed-up new hire onboarding. Through trial and error, we were able to learn how to interview better, discover what worked well and what didn't work well, and use that to improve the next set of interviews.
+
+* Established weekly meetings between between the staff and leadership. This led to increased transparency and improved communication throughout the organization. It also resulted in faster feedback cycles both up the org chart to leadership, as well as down the org chart to staff.
+
+* Implemented regular reviews where expectations could be set/updated on a regular basis, staff could better understand what to expect (and what was expected of them), and everybody was able to benefit from fewer surprises.
+
+* Worked as a liason between leadership and the installation crew to improve an installation technique. This involved communicating between different roles in the organization, managing expectations, encouraging people to grow beyond their comfort zones, and ensuring that the change in process was successful.
+
+* Moved the office to _Google Apps for Work_. This allowed sales reps and other off-site workers to receive messages and share information without being tied to a desk at the office. Implementing shared calendars helped us improve how scheduled information was shared across the team, and adopting _Google Docs_ and _Google Sheets_ helped us reduce confusion from emailing documents back and forth.
+
+* Helped select and establish a new CRM with better integration into our other systems, reducing the amount of manual work that needed to be performed. Took the initiative to dive deeply into the software so that I could document the tasks and train the rest of the team.
+
+* Kickstarted the effort to step-up our web and social media presence. Worked with leadership to understand what would be needed in order to build enough business to warrant the 50-store goal, identifying good things, bad things, and things we weren't yet doing. Educated leadership on corporate branding, lifestyle branding, voice, fundamentals of SEO, and more. Took over social media posts for about 6 weeks to set the tone and guide the work, before handing-off to a marketing firm. During those 6 weeks we saw a 375% increase in posts, 106% increase in visits to our Facebook page, and a 48.5% increase in page likes.
+
+* Developed the sample package that is now used for maintenance plans on synthetic turf. Maintenance plans are now an integral part of upselling as a way to drive additional revenue.
+
+### Red Moon Resale — Online
+
+#### Owner (May 2021–March 2022)
+
+TBD
+
 ### [Bark King Blower Truck Service](https://barkking.com) — Woodinville, WA
 
-#### Office Manager (January 2019—Present)
+#### Office Manager (January 2019—April 2021)
 
 * Improved the interview process to have fewer false-positives. Adopted revisions to the employee manual, insurance manuals, and training guides. Collaborated with the HR company to ensure legal compliance. Invested in ensuring employees were engaged, happy, and productive. Wanted to implement safety meetings, checked equipment, and ensure proper outfitting for the job (e.g., raingear, high-visibility vests).
 
