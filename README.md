@@ -8,55 +8,92 @@ Evans, CO
 
 ## Summary
 
-**Jessika Parman** is an experienced office and warehouse manager with a focus on improving workflow efficiency. Having learned the ropes of office management in high school while working in her mother's store after classes, Jessika understands what it takes to _think like an owner_.
+* Works to make businesses more efficient. Looks for inefficiencies in how things are done.
 
-Jessika understands how modern technology can streamline the efficiency of the workplace. She implicitly understands the pitfalls of “[We've always done it this way][always-done]” and has a sixth sense about how to streamline operations. Jessika understands that the best way to move things forward is to first listen and understand how things work before suggesting solutions which may not fit. But by letting computers do what computers are good at, we can free up the staff to focus on what _humans_ are good at.
+* Teaches how to adopt social media and branding.
 
-With experience being forklift-certified, to understanding customer relationship management (CRM) software, to designing inventory control processes, Jessika is truly a _Jill-of-all-trades_. She is intrinsically motivated, thinks like an owner, delivers on commitments, and always desires to deliver the best possible experience for customers. Outside of work, Jessika lives north of Seattle with her husband, two high-school aged children, and three dogs. She is a ranked player in the [American Poolplayers Association](https://poolplayers.com), and is an avid hiker and amateur photographer.
+* How do I say: yes do thngs, but then take a step firther to create documents and processes. Push forward to next steps.
+
+* Ideas become too much for mom and pop shops.
+
+* Learn the way they want to do things, then present more efficient ways to grow the business.
+
+* Biz outreach. Vendor events. Ideas around how to reach customers.
+
+* Highly creative. Explosive with ideas.
+
+* Not wanting typical customer-facing 9-5. Work behind the scenes to make the business better and draw more customers. Prefer full remote, vacation time, and being treated like an adult.
+
+* Don;t want to be trapped in the box of having one, specific, narrowly-defined role. Want to be able to bring improvements to all areas of the biz.
+
+* Looking for a role where creative problem solving is encoutaged, not frowned upon.
+
+* Jessika understands what it takes to _think like an owner_.
+
+* Jessika understands how modern technology can streamline the efficiency of the workplace. She implicitly understands the pitfalls of “[We've always done it this way][always-done]” and has a sixth sense about how to streamline ????.
+
+* Jessika understands that the best way to move things forward is to first listen and understand how things work before suggesting solutions which may not fit. But by letting computers do what computers are good at, we can free up the staff to focus on what _humans_ are good at.
+
+* Jessika is truly a _Jill-of-all-trades_. She is intrinsically motivated, thinks like an owner, delivers on commitments, and always desires to deliver the best possible experience for customers.
+
+* Outside of work, Jessika lives in northern Colorado with her husband, two children, and three dogs. She is a ranked player in the [American Poolplayers Association](https://poolplayers.com), and is an avid hiker and amateur photographer.
+
+* Looking to pivot career from Office Management into creative work.
 
 ## Skills and Software
 
-While Jessika’s experience and personal interests are broad, the following list is focused more on her interest in office management, automation, and warehouse management roles. She would be happy to share additional experience for other areas upon request.
+While my experience and personal technical interests are broad, the following list is focused more on my interest in Office, Creative, and ??? roles. I would be happy to share additional experience for other areas upon request.
 
-* **Efficiency Methodologies:** [Kanban], [Lean]
+> **NOTE:** Most items below have an approximate proficiency level (scale: Below Average, Average, Above Average), as well as a directional arrow. An up-arrow (`↑`) means I'm actively working with them and my proficiency is likely to go **up** over time. A down-arrow (`↓`) means it's been a while since I've worked with it, and my proficiency is likely to go **down** over time unless I get a good refresher course. _No arrow_ suggests that I simply maintain my knowledge where it is.
 
-* **Industries:** General construction, flooring, bark/rock blowing, synthetic turf
+* **Industries:** General construction, flooring, bark/rock blowing, synthetic turf, soil.
 
 * **Languages:** Spanish (partial)
 
-* **Software:** macOS, iOS, Windows, Microsoft Office (classic), [Office 365] (online), Google’s [G Suite] (online), [Quickbooks], [Joist], [Copper] (née ProsperWorks)
+* **Office Software:** macOS (Average: ↑), iOS (Average: ↑), Windows (Average: ↑), Microsoft Office (Average), [Office 365]  (Average), Google’s [G Suite] (Above Average: ↑), [Quickbooks] (Above Average: ↑), [Joist] (Above Average: ↓), [Copper] (née ProsperWorks)(Above Average: ↓), [Method] (Above Average), [Turf Logistics] (Above Average), [ninety.io] (Above Average)
 
-* **Office:** Accounting (payable & receivable), managing sales bids and budgets, customer engagement, handling payroll, managing social media presence.
+* **Creative Software:** Canva AAU, Lightroom Classic MU, YouTube Studio MU, LumaFusion MU, Procreate MU
 
-* **Warehouse:** Receiving and validating inventory, scheduling workers and resources for customer jobs, loading trucks for customer jobs, certified for forklift training and safety.
+* **Equipment:** GoPro Hero9, Canon T3i
+
+* **Social Media Marketing:** Facebook Groups/Pages (voice, branding), Instagram, Meta Business Suite MU, Pinterest Analytics MU, Trending Hashtags on the platform
+
+* **Sales Platforms and Tools:** Etsy MU, Shopify MU, Poshmark AAU, Mercari AAU, eBay AAU, Vendoo AAU, PosherVA AAU, Sale Samurai AAU
 
 <div class="page-break"></div>
 
 ## Work Experience & Notable Projects
 
-### [Jessika Parman Designs]() — Online
+### [Jessika Parman Design Studio]() — Online
 
-#### Designer (October 2022–January 2023)
+#### Principal (2016–Present)
 
-TBD
+* Editing photos and videos for sale.
+* Creating YouTube content.
+* Nature/travel photography.
+* Creative endeavors.
+* Logos
+* Business branding
+* Fliers/templates
+* Umbrella for creative work
 
 ### [Graff’s Turf](https://graffsturf.com) — Fort Morgan, CO
 
 #### Office Operations and Leadership (March 2022–January 2023)
 
-* One of our goals was to stabilize the core of the business, with a goal to grow from 1 store to 50 stores over the next several years. Most of my work was driven by this premise.
+* One of our goals was to stabilize the core of the business, with a goal to grow from 2 stores to 50 stores over the next several years. Most of my work was driven by this premise.
 
-* As a hiring manager, rebooted the interview process with a much higher focus on identifying candidates with greater competency, who _think like an owner_, and have a bias toward taking action. The goal was to develop a high-quality, reliable team who could help elevate us to the next level.
+* As a hiring manager, rebooted the interview process with a much higher focus on identifying candidates with greater competency, who _think like an owner_, and have a bias toward taking action. The goal was to develop a high-quality, reliable team who could help elevate us to the next level. Through trial and error, we were able to learn how to interview better, discover what worked well and what didn't work well, and use that to improve the next set of interviews.
 
-* Began the process of documenting our company processes and procedures for the first time in the company’s 50-year existence. This allowed us to bring more rigor and repeatability to tasks, cross-train the team on how to perform tasks (so that the task was not limited to a single individual with knowledge), and speed-up new hire onboarding. Through trial and error, we were able to learn how to interview better, discover what worked well and what didn't work well, and use that to improve the next set of interviews.
+* Began the process of documenting our company processes and procedures for the first time in the company’s 50-year existence. This allowed us to bring more rigor and repeatability to tasks, cross-train the team on how to perform tasks (so that the task was not limited to a single individual with knowledge), and speed-up new hire onboarding.
 
 * Established weekly meetings between between the staff and leadership. This led to increased transparency and improved communication throughout the organization. It also resulted in faster feedback cycles both up the org chart to leadership, as well as down the org chart to staff.
 
 * Implemented regular reviews where expectations could be set/updated on a regular basis, staff could better understand what to expect (and what was expected of them), and everybody was able to benefit from fewer surprises.
 
-* Worked as a liason between leadership and the installation crew to improve an installation technique. This involved communicating between different roles in the organization, managing expectations, encouraging people to grow beyond their comfort zones, and ensuring that the change in process was successful.
+* Worked as a liason between leadership and the installation crew to improve an installation technique. Besides needing to persuade upper-management, this involved communicating between different roles in the organization, managing expectations, encouraging people to grow beyond their comfort zones, and ensuring that the change in process was successful.
 
-* Moved the office to _Google Apps for Work_. This allowed sales reps and other off-site workers to receive messages and share information without being tied to a desk at the office. Implementing shared calendars helped us improve how scheduled information was shared across the team, and adopting _Google Docs_ and _Google Sheets_ helped us reduce confusion from emailing documents back and forth.
+* Was able to persuade upper-management to adopt _Google Apps for Work_. This allowed sales reps and other off-site workers to receive messages and share information without being tied to a desk at the office. Implementing shared calendars helped us improve how scheduled information was shared across the team, and adopting _Google Docs_ and _Google Sheets_ helped us reduce confusion from emailing documents back and forth. As part of this effort, was responsible for all documentation and training of all staff.
 
 * Helped select and establish a new CRM with better integration into our other systems, reducing the amount of manual work that needed to be performed. Took the initiative to dive deeply into the software so that I could document the tasks and train the rest of the team.
 
@@ -68,7 +105,14 @@ TBD
 
 #### Owner (May 2021–March 2022)
 
-TBD
+* Researching brands; hot/cold
+* Where to find inventory
+* Buy low, sell high
+* Posting for sale; photography
+* Selling on online sales platforms
+* Shipping/receiving
+* Inventory management
+* Writing descriptions
 
 ### [Bark King Blower Truck Service](https://barkking.com) — Woodinville, WA
 
@@ -223,3 +267,6 @@ Earlier experience is available upon request.
   [Lean]: http://theleanstartup.com/principles
   [Office 365]: http://office365.com
   [Quickbooks]: https://quickbooks.intuit.com
+  [Method]: https://www.method.me
+  [ninety.io]: https://www.ninety.io
+  [Turf Logistics]: https://turf-logistics.com
