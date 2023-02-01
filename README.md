@@ -52,13 +52,13 @@ While my experience and personal technical interests are broad, the following li
 
 * **Office Software:** macOS (Average: ↑), iOS (Average: ↑), Windows (Average: ↑), Microsoft Office (Average), [Office 365]  (Average), Google’s [G Suite] (Above Average: ↑), [Quickbooks] (Above Average: ↑), [Joist] (Above Average: ↓), [Copper] (née ProsperWorks)(Above Average: ↓), [Method] (Above Average), [Turf Logistics] (Above Average), [ninety.io] (Above Average)
 
-* **Creative Software:** Canva AAU, Lightroom Classic MU, YouTube Studio MU, LumaFusion MU, Procreate MU
+* **Creative Software:** Canva (Above Average: ↑), Lightroom Classic (Average: ↑), YouTube Studio (Average: ↑), LumaFusion (Average: ↑), Procreate (Average: ↑)
 
 * **Equipment:** GoPro Hero9, Canon T3i
 
 * **Social Media Marketing:** Facebook Groups/Pages (voice, branding), Instagram, Meta Business Suite MU, Pinterest Analytics MU, Trending Hashtags on the platform
 
-* **Sales Platforms and Tools:** Etsy MU, Shopify MU, Poshmark AAU, Mercari AAU, eBay AAU, Vendoo AAU, PosherVA AAU, Sale Samurai AAU
+* **Sales Platforms and Tools:** Etsy (Average: ↑), Shopify (Average: ↑), Poshmark (Above Average: ↑), Mercari (Above Average: ↑), eBay (Above Average: ↑), Vendoo (Above Average: ↑), PosherVA (Above Average: ↑), Sale Samurai (Above Average: ↑)
 
 <div class="page-break"></div>
 
