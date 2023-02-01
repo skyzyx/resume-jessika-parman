@@ -56,7 +56,7 @@ While my experience and personal technical interests are broad, the following li
 
 * **Equipment:** GoPro Hero9, Canon T3i
 
-* **Social Media Marketing:** Facebook Groups/Pages (voice, branding), Instagram, Meta Business Suite MU, Pinterest Analytics MU, Trending Hashtags on the platform
+* **Social Media Marketing:** Writing content, identifying the voice of the brand, Meta Business Suite (Average: ↑), Pinterest Analytics (Average: ↑), identifying trending hashtags on the platform
 
 * **Sales Platforms and Tools:** Etsy (Average: ↑), Shopify (Average: ↑), Poshmark (Above Average: ↑), Mercari (Above Average: ↑), eBay (Above Average: ↑), Vendoo (Above Average: ↑), PosherVA (Above Average: ↑), Sale Samurai (Above Average: ↑)
 
