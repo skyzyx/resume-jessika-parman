@@ -14,15 +14,15 @@ Jessika is truly a _Jill-of-all-trades_. Her strength comes from not being trapp
 
 Jessika understands that the best way to move things forward is to first listen and understand how things work before suggesting solutions which may not be a good fit. By letting technology do what technology is good at, we can free up the staff to focus on what _people_ are good at.
 
-Jessika is looking for a serious, long-term, permanently-remote, salaried position where _adults are treated like adults_. While "core working hours" are important, Jessika is looking for a role where _delivering results_ is more important than keeping a traditional 9–5 schedule or being physically in an office.
+Jessika is looking for a serious, long-term, permanently-remote, salaried position where _adults are treated like adults_. While "core working hours" are important, Jessika is looking for a role where _delivering results_ is more important than keeping a traditional 9–5 schedule or being physically in an office. She is also seeking enough paid time-off/vacation time each year to avoid burn-out, recharge her creative batteries, and care for her mental health.
 
 Outside of work, Jessika lives in northern Colorado with her husband, two children, and three dogs. She is a ranked player in the [American Poolplayers Association](https://poolplayers.com), and is an avid hiker and amateur photographer.
 
 ## Skills and Software
 
-While my experience and personal technical interests are broad, the following list is focused more on my interest in Office, Creative, and ??? roles. I would be happy to share additional experience for other areas upon request.
+While my experience and personal technical interests are broad, the following list is focused more on my interest in _Office_ and _Creative_ roles. I would be happy to share additional experience for other areas upon request.
 
-> **NOTE:** Most items below have an approximate proficiency level (scale: Below Average, Average, Above Average), as well as a directional arrow. An up-arrow (`↑`) means I'm actively working with them and my proficiency is likely to go **up** over time. A down-arrow (`↓`) means it's been a while since I've worked with it, and my proficiency is likely to go **down** over time unless I get a good refresher course. _No arrow_ suggests that I simply maintain my knowledge where it is.
+> **NOTE:** Most items below have an approximate proficiency level (scale: Below Average, Average, Above Average), as well as a directional arrow. An up-arrow (`↑`) means I'm actively working with them and my proficiency is likely to go **up** over time. A down-arrow (`↓`) means it's been a while since I've worked with it, and my proficiency is likely to go **down** over time unless I get a good refresher course. _No arrow_ suggests that I’m simply maintaining my knowledge.
 
 * **Industries:** General construction, flooring, bark/rock blowing, synthetic turf, soil.
 
@@ -132,19 +132,19 @@ _Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-sh
 
 * Wanted to receive training for the office tasks that the owner "owned". Wanted to increase the cross-training, and follow the [Kanban] style of working together against a shared queue of tasks.
 
-* Transparent communication with employees is vital to smooth operations; paying attention to customer touchpoints; poor customer communication and a lack of timeliness leads to lost business and customer distrust; better delegation can make the office more efficient; learned that an inability to adapt, thinking small, having a big ego, and micromanagement will actively prevent the success of your business.
+* Learned that transparent communication with employees is vital to smooth operations; paying attention to customer touchpoints makes a huge difference in customer experience; poor customer communication and a lack of timeliness leads to lost business and customer distrust; better delegation can make an office more efficient; learned that an inability to adapt, thinking small, having a big ego, and micromanagement will actively prevent the success of your business.
 
 ### [Thermo Tech Coatings](http://www.thermotechcoatings.com) — Monroe, WA
 
 #### Office Manager (November 2018–January 2019)
 
-* Managed the office + production floor + 15 employees. Worked with powder vendors to become knowledgable enough to train. Scheduled training seminars to perform demos and teach techniques.
+* Managed the office + production floor + 15 employees. Worked with powder coating vendors to become knowledgable enough to train others. Scheduled training seminars to perform demos and teach techniques.
 
-* After a warehouse fire, scheduled fire department inspections to ensure we were up-to-code and had appropriate safety equipment. Took the initiative to address production issues, assigned tasks, performed quality control and training on-the-fly. Met deadlines in a "powder keg" environment and was able to handle the stress of the production floor.
+* After a warehouse fire, scheduled fire department inspections to ensure business was up-to-code and had appropriate safety equipment. Took the initiative to address production issues, assigned tasks, performed quality control and training on-the-fly. Met deadlines in a "powder keg" environment and was able to handle the stress of the production floor.
 
 * Took over responsibilities for customer callbacks, qualifying customers and pre-sales leads. Managed the in-house ordering system, the order forms/processes, invoicing, and account reconciliation.
 
-* Employees look up to the people in charge. Operating with transparency and without ego is key to happy/trusting teams.
+* Learned that employees look up to the people in charge. Operating with transparency and without ego is key to happy/trusting teams.
 
 ### [Synthetic Turf Northwest](https://www.syntheticturfnorthwest.com) — Monroe, WA
 
@@ -184,55 +184,37 @@ Jessika opened an online retail clothing store for the first time. Even though t
 
 #### Office Manager (June 2015–July 2016)
 
-Caught up on certified payroll and prevailing wage paperwork for 12 employees. Took class. Requires knowing detailed processes and work codes.
+* Caught up on certified payroll and _prevailing wage_ paperwork for 12 employees. Took courses to learn detailed processes and work codes.
 
-Inventory management. Warehouse manager was a kid. Logistics. Freight carriers. Long trucking logistics. Scheduling material drops; ensure the right material landed at the right time.
+* Responsible for inventory management, coordinating freight carriers, long-trucking logistics, scheduling material drops, and ensuring the right material landed at the right time to the right location.
 
-Had birds-eye view of all operations; understood all of the moving pieces; was able to step back into previous roles to fill-in when someone was out. Understand what information was important to whom. Staying on top of those details was important and had direct customer impact. (utility player; played all positions)
+* Had a birds-eye view of all operations, including understanding all of the moving pieces. Was cross-trained across multiple roles to fill-in when someone was out. Had to understand what information was important to whom. Staying on top of those details was important and had direct customer impact. (utility player; played all positions)
 
 #### Project Manager (December 2014-June 2015)
 
-Taught how to read blueprints and how to project manage; budgeting and schedules adn change orders; how to handle old men who don't believe women belong on the job site. Focused on improving communication skills. First project was $5mm.
+* Worked on multiple high-value projects. Met with other contractors and project managers. Brokered communication across diverse groups and roles. Learned to deliver projects on-time and on-budget.
 
-Most interesting MindBody project. 20k sq/ft. advanced project. designs in the carpet. calculated complex requirements and measurements.
+* Learned how to read blueprints and how to project manage. Responsible for budgeting, schedules, and change orders. Focused on improving communication. First project was $5 million.
 
-Removal and installation
+* Learned how to interact successfully with older men who didn't believe that women belonged on the job site.
 
-Multiple high-value projects. Met with other contractors, PMs. Brokered comm across groups.
+* Most interesting project was _Mindbody, Inc_. It was a 20,000 sq/ft project with designs in the carpet. Calculated complex requirements and measurements.
 
-On-time, on-budget.
+* Facilitated flooring installation and removal.
 
-Gave confidence to keep going in the construction trade.
+* This position gave Jessika the confidence to keep going in the construction trade.
 
 #### Warehouse Manager (May 2014–December 2014)
 
-First task was to organize 4 warehouses @ 4,000 sq/ft of flooring materials (carpet, LVT, VCT, carpet tiles, transitions, etc.). Broke down sections of the warehouse. Determined what materials could be sold off.
+* First task was to organize 4 warehouses (4,000 sq/ft each) of flooring materials (carpet, LVT, VCT, carpet tiles, transitions, etc.). Broke down sections of the warehouse. Determined what materials could be sold off.
 
-Loaded-up and unloaded trucks using a forklift with a 12 ft carpet attachment. Received formal forklift training and cert (as a teacher to train).
+* Loaded and unloaded trucks using a forklift with a 12 ft carpet attachment. Received formal forklift training and certification — including as a teacher who could train others.
 
-Loaded own truck; drove to job sites with a 4-door truck with a 12-foot trailer; unloaded and staged all material. Heavy inventory management aspect.
+* Physically loaded her own truck. Drove to job sites using a 4-door truck with a 12-foot trailer. Physically unloaded and staged all materials. Heavy inventory management aspect.
 
-Moisture mitigation; drilling into concrete, set a moisture test, and read results; determine results and send to lab.
+* Learned about mitigation of moisture, drilling into concrete, setting moisture tests and reading results, and determining results and sending to the lab.
 
-Set the precedent for warehouse employees moving forward.
-
-### (College)
-
-Worked service jobs while attending school and working toward a degree.
-
-### California Central Fire Protection — Nipomo, CA
-
-#### Office Assistant (August 2007–August 2009)
-
-Mom and Pop business. Worked out of their garage.
-
-Started learning what certified payroll was. Received training for core office tasks. Learned the basics of scheduling and inventory. Began learning QuickBooks.
-
-How to compose professional emails.
-
-Learned a lot about the products, and piqued an interest in the construction field.
-
-Negotiated a raise from 10 → 16/hr. Negotiated a paycheck when the company was "out of money". Eye-opening about the real world and taught me what I'm OK with and not when working for a company.
+* Set a high bar for warehouse employees moving forward.
 
 ### Truncated
 
