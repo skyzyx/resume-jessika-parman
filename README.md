@@ -6,7 +6,7 @@ Evans, CO
 
 **Experienced office manager with a focus on improving efficiency by embracing technology. Seeking to pivot into a creative role in marketing, design, social media management, and customer engagement.**
 
-## Summary
+## Summary/Objective
 
 Jessika is not _yet-another-cog-in-the-machine_. She is a leader who brings new ideas to the table, challenges the status quo, and seeks to make every working environment better. Conversely, if you're looking for someone to sit, do precisely the thing, and then stop and wait for futher instructions — this probably won't be a good fit for anyone.
 
@@ -44,7 +44,7 @@ While my experience and personal technical interests are broad, the following li
 
 ### Jessika Parman Design Studio — Online
 
-#### Principal (2016–Present)
+#### Owner, Design Services (2016–Present)
 
 Umbrella company for learning, performing, and selling creative work/services.
 
@@ -81,18 +81,32 @@ Umbrella company for learning, performing, and selling creative work/services.
 
 ### Red Moon Resale — Online
 
-#### Principal (May 2021–March 2022)
+#### Owner, Reseller (May 2021–March 2022)
 
-_Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-show_, Jessika  was involved in every aspect of the business.
+_Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-show_, Jessika  was involved in every aspect of the business. This involved:
 
-* Researching brands; hot/cold
-* Where to find inventory
-* Buy low, sell high
-* Posting for sale; photography
-* Selling on online sales platforms
-* Shipping/receiving
-* Inventory management
-* Writing descriptions
+* Researching brands for what was "hot" vs "cold".
+
+* Identified where to source inventory.
+
+* Inventory management.
+
+* Accounting; logging receipts.
+
+* Posting inventory for sale.
+  * Photographing the item from all angles.
+  * Photography lighting.
+  * Writing descriptions of the item.
+
+* Selling on online sales platforms.
+  * eBay
+  * Facebook Marketplace
+  * Poshmark
+  * Mercari
+
+* On-time shipping; receiving.
+
+* Customer service; returns.
 
 ### [Bark King Blower Truck Service](https://barkking.com) — Woodinville, WA
 
@@ -102,7 +116,7 @@ _Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-sh
 
 * Saved money through price comparisons and negotiating with vendors over prices.
 
-* There was active resistance to digital solutions. While many of these were unimplemented, she proposed meaningful improvements to productivity by:
+* There was active resistance to digital solutions and modernization of business practices. While many of these were unimplemented, Jessika proposed meaningful improvements to productivity by:
 
   * Moving the job schedules into a shared, digital calendar that was reviewable by everyone.
 
