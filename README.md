@@ -26,7 +26,7 @@ While my experience and personal technical interests are broad, the following li
 
 * **Industries:** General construction, flooring, bark/rock blowing, synthetic turf, soil.
 
-**Languages:** English (fluent), Spanish (partial)
+* **Spoken Languages:** English (fluent), Spanish (partial)
 
 * **Office Software:** macOS (Average: ↑), iOS (Average: ↑), Windows (Average: ↑), Microsoft Office (Average), [Office 365]  (Average), Google’s [G Suite] (Above Average: ↑), [Quickbooks] (Above Average: ↑), [Joist] (Above Average: ↓), [Copper] (née ProsperWorks)(Above Average: ↓), [Method] (Above Average), [Turf Logistics] (Above Average), [ninety.io] (Above Average)
 
@@ -46,7 +46,7 @@ While my experience and personal technical interests are broad, the following li
 
 #### Principal (2016–Present)
 
-Umbrella company for learning/performing creative work.
+Umbrella company for learning, performing, and selling creative work/services.
 
 * Nature and travel photography (iPhone, Canon T3i).
 * Vector logo design (Canva).
@@ -81,7 +81,9 @@ Umbrella company for learning/performing creative work.
 
 ### Red Moon Resale — Online
 
-#### Owner (May 2021–March 2022)
+#### Principal (May 2021–March 2022)
+
+_Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-show_, Jessika  was involved in every aspect of the business.
 
 * Researching brands; hot/cold
 * Where to find inventory
