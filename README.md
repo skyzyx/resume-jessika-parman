@@ -26,7 +26,7 @@ While my experience and personal technical interests are broad, the following li
 
 * **Industries:** General construction, flooring, bark/rock blowing, synthetic turf, soil.
 
-* **Languages:** Spanish (partial)
+**Languages:** English (fluent), Spanish (partial)
 
 * **Office Software:** macOS (Average: ↑), iOS (Average: ↑), Windows (Average: ↑), Microsoft Office (Average), [Office 365]  (Average), Google’s [G Suite] (Above Average: ↑), [Quickbooks] (Above Average: ↑), [Joist] (Above Average: ↓), [Copper] (née ProsperWorks)(Above Average: ↓), [Method] (Above Average), [Turf Logistics] (Above Average), [ninety.io] (Above Average)
 
@@ -42,18 +42,18 @@ While my experience and personal technical interests are broad, the following li
 
 ## Work Experience & Notable Projects
 
-### [Jessika Parman Design Studio]() — Online
+### Jessika Parman Design Studio — Online
 
 #### Principal (2016–Present)
 
-* Editing photos and videos for sale.
-* Creating YouTube content.
-* Nature/travel photography.
-* Creative endeavors.
-* Logos
-* Business branding
-* Fliers/templates
-* Umbrella for creative work
+Umbrella company for learning/performing creative work.
+
+* Nature and travel photography (iPhone, Canon T3i).
+* Vector logo design (Canva).
+* Branding for clients and small companies.
+* Creating YouTube content (LumaFusion, YouTube Studio).
+* Editing photos and videos (Lightroom Classic, LumaFusion).
+* Flier design (Canva).
 
 ### [Graff’s Turf](https://graffsturf.com) — Fort Morgan, CO
 
