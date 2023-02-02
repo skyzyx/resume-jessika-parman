@@ -4,41 +4,19 @@ jessika@jessikaparman.com \
 (805) 249-8353 \
 Evans, CO
 
-**Experienced office and warehouse manager with a focus on improving workflow efficiency by leveraging automation and digital solutions.**
+**Experienced office manager with a focus on improving efficiency by embracing technology. Seeking to pivot into a creative role in marketing, design, social media management, and customer engagement.**
 
 ## Summary
 
-* Works to make businesses more efficient. Looks for inefficiencies in how things are done.
+Jessika is not _yet-another-cog-in-the-machine_. She is a leader who brings new ideas to the table, challenges the status quo, and seeks to make every working environment better. Conversely, if you're looking for someone to sit, do precisely the thing, and then stop and wait for futher instructions — this probably won't be a good fit for anyone.
 
-* Teaches how to adopt social media and branding.
+Jessika is truly a _Jill-of-all-trades_. Her strength comes from not being trapped in the box of having one, specific, narrowly-defined role. Instead, being _encouraged_ to bring business value, efficiency, and improvements _across_ the business is a role where Jessika will thrive. She is looking for a role where creative problem-solving is encouraged, not frowned-upon. She seeks to work with a team that _wants_ to improve, _wants_ to grow, and is receptive to new ideas. She is intrinsically motivated, thinks like an owner, delivers on commitments, and always desires to deliver the best possible experience for customers. She isn’t constrained by [how things have always been done][always-done].
 
-* How do I say: yes do thngs, but then take a step firther to create documents and processes. Push forward to next steps.
+Jessika understands that the best way to move things forward is to first listen and understand how things work before suggesting solutions which may not be a good fit. By letting technology do what technology is good at, we can free up the staff to focus on what _people_ are good at.
 
-* Ideas become too much for mom and pop shops.
+Jessika is looking for a serious, long-term, permanently-remote, salaried position where _adults are treated like adults_. While "core working hours" are important, Jessika is looking for a role where _delivering results_ is more important than keeping a traditional 9–5 schedule or being physically in an office.
 
-* Learn the way they want to do things, then present more efficient ways to grow the business.
-
-* Biz outreach. Vendor events. Ideas around how to reach customers.
-
-* Highly creative. Explosive with ideas.
-
-* Not wanting typical customer-facing 9-5. Work behind the scenes to make the business better and draw more customers. Prefer full remote, vacation time, and being treated like an adult.
-
-* Don;t want to be trapped in the box of having one, specific, narrowly-defined role. Want to be able to bring improvements to all areas of the biz.
-
-* Looking for a role where creative problem solving is encoutaged, not frowned upon.
-
-* Jessika understands what it takes to _think like an owner_.
-
-* Jessika understands how modern technology can streamline the efficiency of the workplace. She implicitly understands the pitfalls of “[We've always done it this way][always-done]” and has a sixth sense about how to streamline ????.
-
-* Jessika understands that the best way to move things forward is to first listen and understand how things work before suggesting solutions which may not fit. But by letting computers do what computers are good at, we can free up the staff to focus on what _humans_ are good at.
-
-* Jessika is truly a _Jill-of-all-trades_. She is intrinsically motivated, thinks like an owner, delivers on commitments, and always desires to deliver the best possible experience for customers.
-
-* Outside of work, Jessika lives in northern Colorado with her husband, two children, and three dogs. She is a ranked player in the [American Poolplayers Association](https://poolplayers.com), and is an avid hiker and amateur photographer.
-
-* Looking to pivot career from Office Management into creative work.
+Outside of work, Jessika lives in northern Colorado with her husband, two children, and three dogs. She is a ranked player in the [American Poolplayers Association](https://poolplayers.com), and is an avid hiker and amateur photographer.
 
 ## Skills and Software
 
@@ -247,7 +225,7 @@ Earlier experience is available upon request.
 ## Certifications & Accomplishments
 
 * Student guest speaker for the 2007 [Arroyo Grande High School][aghs] graduation ceremony.
-* Forklift certificatation; both usage and training.
+* Forklift certification; both usage and training.
 
 ## Education
 
