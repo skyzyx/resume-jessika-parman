@@ -10,8 +10,4 @@ all:
 build:
 	pandoc -r gfm -w docx --output=jessika-bishop-resume.docx README.md
 	pandoc -r gfm -w html5+smart --output=body.html README.md
-	python ./process.py
-
-.PHONY: serve
-serve:
-	php -S 0.0.0.0:4000 -t .
+	python3 ./process.py
