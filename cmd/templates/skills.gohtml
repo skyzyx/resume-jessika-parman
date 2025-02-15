@@ -1,0 +1,116 @@
+{{ define "skills" -}}
+{{/* ninety.io */}}
+
+    {{/* "[iOS]"
+    "[iPadOS]"
+    "[macOS]" */}}
+{{- $generalSoft := list
+    "[Dropbox]"
+    "[Google Docs]"
+    "[Google Drive]"
+    "[Google Workspace]"
+    "[Microsoft Office]"
+    "[QuickBooks]"
+    "[Windows]"
+}}
+{{- $constSoft := list
+    "[Copper CRM]"
+    "[Jobber]"
+    "[Joist]"
+    "[Method CRM]"
+    "[Turf Logistics]"
+}}
+{{- $creativeSoft := list
+    "[Canva]"
+    "[Lightroom]"
+    "[LumaFusion]"
+    "[Procreate]"
+    "[YouTube Studio]"
+}}
+{{- $constAreas := list
+    "bark/rock blowing"
+    "civil construction"
+    "flooring"
+    "general construction"
+    "snow removal"
+    "soil"
+    "synthetic turf"
+}}
+{{- $generalSkills := list
+    "collaboration"
+    "compliance and safety standards"
+    "confidentiality"
+    "customer service"
+    "decision-making"
+    "efficiency"
+    "hiring and onboarding"
+    "hybrid work environments"
+    "integrity"
+    "inventory management"
+    "multitasking"
+    "organization"
+    "performing under pressure"
+    "prioritization"
+    "problem-solving"
+    "process streamlining"
+    "professionalism"
+    "relationship management"
+    "strategic thinking"
+    "technical proficiency"
+    "time management"
+    "vendor management"
+    "written and verbal communication"
+}}
+{{- $accountSkills := list
+    "accounts payable"
+    "accounts receivable"
+    "reconciliation"
+    "record keeping"
+}}
+
+{{ if not .IsGoPDF -}}
+## Skills
+
+{{ if .IsAll -}}
+This list is not exhaustive, but these are software and skills I leveraged in the roles above.
+
+* **Construction Areas:** {{ (concat $constAreas) | sortAlpha | uniq | join ", " }}.
+
+* **Software:** {{ (concat $generalSoft $constSoft $creativeSoft) | sortAlpha | uniq | join ", " }}.
+
+* **General skills:** {{ (concat $generalSkills) | sortAlpha | uniq | join ", " }}.
+
+* **Account management skills:** {{ (concat $accountSkills) | sortAlpha | uniq | join ", " }}.
+
+{{ else if .IsOffice -}}
+This list is not exhaustive, but these are software and skills I leveraged in office management roles.
+
+* **Software:** {{ (concat $generalSoft $creativeSoft) | sortAlpha | uniq | join ", " }}.
+
+* **General skills:** {{ (concat $generalSkills) | sortAlpha | uniq | join ", " }}.
+
+* **Account management skills:** {{ (concat $accountSkills) | sortAlpha | uniq | join ", " }}.
+
+{{ else if .IsConst -}}
+This list is not exhaustive, but these are software and skills I leveraged in construction-oriented office management roles.
+
+* **Construction Areas:** {{ (concat $constAreas) | sortAlpha | uniq | join ", " }}.
+
+* **Software:** {{ (concat $generalSoft $constSoft) | sortAlpha | uniq | join ", " }}.
+
+* **General skills:** {{ (concat $generalSkills) | sortAlpha | uniq | join ", " }}.
+
+* **Account management skills:** {{ (concat $accountSkills) | sortAlpha | uniq | join ", " }}.
+
+{{ end -}}
+
+{{- else -}} {{/* Generate when we're just trying to get keywords */}}
+{{ if .IsAll -}}
+    {{- (concat $constAreas $generalSoft $constSoft $creativeSoft $generalSkills $accountSkills) | sortAlpha | uniq | join ", " -}}
+{{ else if .IsOffice -}}
+    {{- (concat $generalSoft $creativeSoft $generalSkills $accountSkills) | sortAlpha | uniq | join ", " -}}
+{{ else if .IsConst -}}
+    {{- (concat $constAreas $generalSoft $constSoft $generalSkills $accountSkills) | sortAlpha | uniq | join ", " -}}
+{{ end -}}
+{{- end -}}
+{{ end -}}
