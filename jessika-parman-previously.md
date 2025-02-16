@@ -41,6 +41,14 @@ _Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-sh
 
 * Completed a full CRM implementation. Managed the sales funnel from the website, and engaged with customers to qualify the leads. Aligned with owner's vision for online leads, filter of hot/cold leads, and setting-up consultation appointments.
 
+### [A Better Handyman](https://www.abetterhandyman.org) — Mountlake Terrace, WA
+
+#### Office Manager (December 2016–February 2017)
+
+### [Contract Furnishings Mart](http://www.cfmfloors.com/north-seattle-flooring-store) — Seattle, WA
+
+#### Office Manager (November 2016–December 2016)
+
 ### Blazing Gypsy Boutique — Online
 
 #### Owner, Direct Sales (July 2016–January 2019)
@@ -48,6 +56,11 @@ _Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-sh
 Jessika opened an online retail clothing store for the first time. Even though the business ultimately failed, she was able to gain insight and experience as a result that is difficult to learn in other contexts.
 
 When you have a product you're passionate about, it's easy and fun to sell; Jessika learned a lot from the many new people she met as a result; gained many personal and professional contacts/connections; the business opened doors to other opportunities.
+
+### [Floor Connection](http://floorconnection.com) — Arroyo Grande, CA
+#### Office Manager (June 2015–July 2016)
+#### Project Manager (???-June 2015)
+#### Warehouse Manager (April 2012–???)
 
 [Canva]: https://www.canva.com
 [Lightroom]: https://lightroom.adobe.com

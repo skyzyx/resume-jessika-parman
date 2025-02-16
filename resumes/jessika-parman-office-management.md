@@ -99,7 +99,10 @@ See “[Previous experience, side projects](https://github.com/skyzyx/resume-jes
 * Red Moon Resale — Owner (May 2021–March 2022)
 * [Thermo Tech Coatings](http://www.thermotechcoatings.com) — Office Manager (November 2018–January 2019)
 * [Synthetic Turf Northwest](https://www.syntheticturfnorthwest.com) — Office Manager (February 2017–November 2018)
+* [A Better Handyman](https://www.abetterhandyman.org) — Office Manager (December 2016–February 2017)
+* [Contract Furnishings Mart](http://www.cfmfloors.com/north-seattle-flooring-store) — Office Manager (November 2016–December 2016)
 * Blazing Gypsy Boutique — Owner (July 2016–January 2019)
+* [Floor Connection](http://floorconnection.com) — Warehouse Manager, Project Manager, Office Manager (April 2012–July 2016)
 
     
 

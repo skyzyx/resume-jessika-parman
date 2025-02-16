@@ -75,7 +75,6 @@ clean: clean-ds clean-resume clean-html
 build:
 	@ $(GO) run main.go generate
 	@ cp -fv ./resumes/jessika-parman-office-management.md ./README.md
-	@ cp -fv ./RESUMES-README.md ./resumes/README.md
 
 
 .PHONY: coverletter
