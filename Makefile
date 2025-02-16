@@ -74,7 +74,7 @@ clean: clean-ds clean-resume clean-html
 ## build: [build]* Run building tasks.
 build:
 	@ $(GO) run main.go generate
-	@ cp -fv ./resumes/ryanparman-general-cv.md ./README.md
+	@ cp -fv ./resumes/jessika-parman-office-management.md ./README.md
 	@ cp -fv ./RESUMES-README.md ./resumes/README.md
 
 
@@ -103,4 +103,4 @@ pdf:
 		$$FILENAME && \
 	$(GO) run main.go serve \
 		--load-file=coverletter.html \
-		--write-pdf=coverletters/ryanparman-coverletter-$(shell basename $$FILENAME).pdf
+		--write-pdf=coverletters/jessika-parman-coverletter-$(shell basename $$FILENAME).pdf
