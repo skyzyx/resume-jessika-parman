@@ -10,10 +10,7 @@ import (
 // rootCmd represents the base command when called without any subcommands
 var (
 	fileNames = map[string]string{
-		"all": "jessika-parman-office-management",
-		// "all":          "jessika-parman-general-cv",
-		// "office":       "jessika-parman-office-management",
-		// "construction": "jessika-parman-construction-office",
+		"all": "jessika-parman-construction-office-manager",
 	}
 
 	rootCmd = &cobra.Command{

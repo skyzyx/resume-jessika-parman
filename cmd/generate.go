@@ -337,22 +337,14 @@ func generatePDF(role, resumeDir, audience string) {
 	var pdfRoles string
 	switch role {
 	case "all":
-		pdfRoles = "Software Engineer, DevTools, Cloud, SRE, DevOps, PM, TPM, Manager"
-	case "cloud":
-		pdfRoles = "Cloud, SRE, DevOps, DevTools"
-	case "em":
-		pdfRoles = "Engineering Manager"
-	case "sde":
-		pdfRoles = "Software Engineer, DevTools"
-	case "tpm":
-		pdfRoles = "PM, TPM"
+		pdfRoles = "Construction Office Manager"
 	}
 
 	// Write correct PDF metadata
 	exiftoolUpdate := exec.Command(
 		"exiftool",
-		`-title="Ryan Parman (`+pdfRoles+`)"`,
-		`-author="Ryan Parman"`,
+		`-title="Jessika Parman (`+pdfRoles+`)"`,
+		`-author="Jessika Parman"`,
 		`-subject="`+pdfDescription+`"`,
 		`-sep ", "`,
 		`-keywords="`+pdfKeywords+`"`,

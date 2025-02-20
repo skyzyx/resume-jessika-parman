@@ -19,7 +19,7 @@ Umbrella company for learning, performing, and selling creative work/services.
 
 ### Red Moon Resale — Online
 
-#### Owner, Reseller (May 2021–March 2022)
+#### Owner, Reseller (May 2021–Present)
 
 _Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-show_, Jessika was involved in every aspect of the business.
 
@@ -44,10 +44,6 @@ _Red Moon Resale_ was a re-seller of apparel and accessories. As a _one-woman-sh
 ### [A Better Handyman](https://www.abetterhandyman.org) — Mountlake Terrace, WA
 
 #### Office Manager (December 2016–February 2017)
-
-### [Contract Furnishings Mart](http://www.cfmfloors.com/north-seattle-flooring-store) — Seattle, WA
-
-#### Office Manager (November 2016–December 2016)
 
 ### Blazing Gypsy Boutique — Online
 
